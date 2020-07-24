@@ -2,3 +2,5 @@ rock
 pop
 jazz
 salsa
+regguetton
+musica clasica
