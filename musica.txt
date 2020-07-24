@@ -1,2 +1,4 @@
 rock
 pop
+jazz
+salsa
