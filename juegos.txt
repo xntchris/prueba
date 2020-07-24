@@ -1,4 +1,5 @@
 starcraft
 wwz
 diablo 2
+diablo 3
 hs
